@@ -1,4 +1,6 @@
 # Tesla-clone
 
-🔴live demo on netlify 
-   teslaclonebynevil.netlify.app
+Tesla Clone using HTML,CSS,JavaScript
+
+🔴live demo 
+  https://teslaclonebynevil.netlify.app/
