@@ -1,6 +1,14 @@
 # Tesla-clone
 
-Tesla Clone using HTML,CSS,JavaScript
+Languages are use to make this website
+  html,css,javascript
 
-🔴live demo 
+#Description
+  Tesla clone with html,css,javascript
+
+#🔴live demo 
   https://teslaclonebynevil.netlify.app/
+
+#Version History
+1.0
+Initial Release 🚀
